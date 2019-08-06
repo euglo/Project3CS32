@@ -1,1 +1,3 @@
-# Project3CS32
+# Zombie Dash
+
+A video game project - coursework for CS32 at UCLA.
